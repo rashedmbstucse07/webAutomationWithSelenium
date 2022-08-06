@@ -46,4 +46,5 @@ public class LoginOrangeHRMLive {
         String driverLocation = System.getProperty("user.dir") + "\\src\\test\\resources\\Driver\\geckodriver.exe";
         System.setProperty("webdriver.gecko.driver", driverLocation);
     }
+
 }
