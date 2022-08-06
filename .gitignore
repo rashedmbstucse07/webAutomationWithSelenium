@@ -1,0 +1,4 @@
+#added to ignore unnecessary file during commit, push
+/.gradle/
+/.idea/
+/out/
