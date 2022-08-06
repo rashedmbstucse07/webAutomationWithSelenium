@@ -14,6 +14,7 @@ public class LoginOrangeHRMLive {
     5. Click on login button
     6. Check the page title
     */
+
     public static void main(String[] args) {
         LoginOrangeHRMLive loginOrangeHRMLive = new LoginOrangeHRMLive();
         loginOrangeHRMLive.setUp();
